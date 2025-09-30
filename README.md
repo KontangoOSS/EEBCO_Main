@@ -1,3 +1,5 @@
+</div>
+
 <div align="center">
 
 # 🔌 Energy Efficiency Business Coalition (EEBC)
@@ -8,11 +10,13 @@
 [![Email](https://img.shields.io/badge/📧_Email-admin@eebco.org-FF6F00?style=for-the-badge)](mailto:admin@eebco.org)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/energy-efficiency-business-coalition)
 [![Members](https://img.shields.io/badge/Members-150+-2E7D32?style=for-the-badge)](https://www.eebco.org/)
+[![Submit a Ticket](https://img.shields.io/badge/Submit%20a%20Ticket-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://sites.plane.so/intake/ac4ac84cd43f48279722b6b07761ed79/)
 
 </div>
 
 ---
 
+## 
 ## 🔧 Why Contractors Join EEBC
 
 <img align="right" width="400" src="https://via.placeholder.com/400x250/0D47A1/FFFFFF?text=EEBCO+Contractor+Network" alt="EEBCO">
