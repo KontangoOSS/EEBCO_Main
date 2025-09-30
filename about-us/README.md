@@ -1,8 +1,20 @@
-# 📂 About EEBC
+</div>
 
-## Energy Efficiency Business Coalition - Who We Are
+<div align="center">
 
-Welcome to the About Us section of the Energy Efficiency Business Coalition. Here you'll find comprehensive information about our organization, leadership, history, and impact on Colorado's energy efficiency industry.
+# 🔌 About Us
+
+### *Built by Contractors, For Contractors - Growing Your Business Since 2008*
+
+</div>
+
+---
+
+[![Website](https://img.shields.io/badge/🌐_Website-www.eebco.org-0D47A1?style=for-the-badge)](https://www.eebco.org/)
+[![Email](https://img.shields.io/badge/📧_Email-admin@eebco.org-FF6F00?style=for-the-badge)](mailto:admin@eebco.org)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/energy-efficiency-business-coalition)
+[![Members](https://img.shields.io/badge/Members-150+-2E7D32?style=for-the-badge)](https://www.eebco.org/)
+[![Submit a Ticket](https://img.shields.io/badge/Submit%20a%20Ticket-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://sites.plane.so/intake/ac4ac84cd43f48279722b6b07761ed79/)
 
 ---
 
