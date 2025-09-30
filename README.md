@@ -252,18 +252,11 @@ We extend our sincere gratitude to our key partners who support Colorado's contr
 
 ---
 
-<div align="center">
+## 🎖️ SUBMIT YOUR TICKET
 
-### 🔨 Built by the Trades, For the Trades
+**Stand behind your idea. Get the credit. Make everyone's job better.**
 
-*EEBC - Your Voice in Colorado's Energy Efficiency Industry*
-
-[![Make Change](https://img.shields.io/badge/Suggest-An-Idea-Click_Here-FF6F00?style=for-the-badge)](https://sites.plane.so/intake/ac4ac84cd43f48279722b6b07761ed79/)
-
-</div>
+📋 **Form Submission:** [Use the intake form](https://sites.plane.so/intake/ac4ac84cd43f48279722b6b07761ed79/)  
+💻 **GitHub Direct:** [https://github.com/KontangoOSS/EEBCO_Main](https://github.com/KontangoOSS/EEBCO_Main)
 
 ---
-
-<div align="center">
-<sub>© 2025 Energy Efficiency Business Coalition. All rights reserved.</sub>
-</div>
