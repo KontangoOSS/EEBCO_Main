@@ -258,7 +258,7 @@ We extend our sincere gratitude to our key partners who support Colorado's contr
 
 *EEBC - Your Voice in Colorado's Energy Efficiency Industry*
 
-[![Join Today](https://img.shields.io/badge/Suggest-An-Idea-Click_Here-FF6F00?style=for-the-badge)](https://sites.plane.so/intake/ac4ac84cd43f48279722b6b07761ed79/)
+[![Make Change](https://img.shields.io/badge/Suggest-An-Idea-Click_Here-FF6F00?style=for-the-badge)](https://sites.plane.so/intake/ac4ac84cd43f48279722b6b07761ed79/)
 
 </div>
 
