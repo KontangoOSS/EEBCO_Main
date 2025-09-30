@@ -1,17 +1,11 @@
 <div align="center">
 
-# 🔌 Energy Efficiency Business Coalition (EEBC)
+### 🌟 Building a Sustainable Energy Future Together
 
-### *Powering Colorado's Energy Future Through Collaboration*
+*EEBC - Where Energy Efficiency Means Business*
 
-[![Website](https://img.shields.io/badge/🌐_Website-www.eebco.org-0D47A1?style=for-the-badge)](https://www.eebco.org/)
-[![Email](https://img.shields.io/badge/📧_Email-admin@eebco.org-FF6F00?style=for-the-badge)](mailto:admin@eebco.org)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/energy-efficiency-business-coalition)
-[![Members](https://img.shields.io/badge/Members-150+-2E7D32?style=for-the-badge)](https://www.eebco.org/)
+[![Visit Website](https://img.shields.io/badge/Learn_More_at_eebco.org-0D47A1?style=for-the-badge)](https://www.eebco.org/)
 
-</div>
-
----
 
 ## 🏗️ Who We Are
 
@@ -241,15 +235,14 @@ graph TD
 ✉️ [admin@eebco.org](mailto:admin@eebco.org)  
 🌐 [www.eebco.org](https://www.eebco.org/)  
 
+</div>
+
 ---
 
-<div align="center">
-
-### 🌟 Building a Sustainable Energy Future Together
-
-*EEBC - Where Energy Efficiency Means Business*
-
-[![Visit Website](https://img.shields.io/badge/Learn_More_at_eebco.org-0D47A1?style=for-the-badge)](https://www.eebco.org/)
+[![Website](https://img.shields.io/badge/🌐_Website-www.eebco.org-0D47A1?style=for-the-badge)](https://www.eebco.org/)
+[![Email](https://img.shields.io/badge/📧_Email-admin@eebco.org-FF6F00?style=for-the-badge)](mailto:admin@eebco.org)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/energy-efficiency-business-coalition)
+[![Members](https://img.shields.io/badge/Members-150+-2E7D32?style=for-the-badge)](https://www.eebco.org/)
 
 </div>
 
